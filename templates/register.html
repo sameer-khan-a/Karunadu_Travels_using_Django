@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+{% block title %} Home  {% endblock title %}
+{% block body %} 
+<form method="post" action"/register>
+       {% csrf_token %}
+    <div class="Name">
+      <label for="Name" class="form-label">name</label>
+      <input type="text" class="form-control" id="Name" name="Name">
+    </div>
+    
+    <div class="Address">
+      <label for="Address" class="form-label">Address</label>
+      <input type="textarea" class="form-control" id="Address" name="Address" placeholder="1234 Main St">
+    </div>
+    
+    
+    
+    
+
+    <div class="email">
+    
+        <label for="email" class="form-label">EMAIL</label>
+        <input type="text" placeholder="enter email" name="email" class="form-control" id="email">
+      </div><br>
+
+      <div class="Package">
+        <label for="Package" class="form-label">Package :</label>
+        <select name="Package" id="Package">
+          <option value="       ---select package---">                ---select package---</option>
+          <option value="Namma mudigere package">Namma mudigere package</option>
+          <option value="Namma Mysore package">Namma Mysore package</option>
+    
+          <option value="Namma Hampi package">Namma Hampi package</option>
+
+          <option value="Namma Badami Package">Namma Badami Package</option>
+
+          <option value="Namma Murudeshwara Package">Namma Murudeshwara Package</option>
+          <option value="Namma gokarna Package">Namma gokarna Package</option>
+          <option value="Namma kuduremukha Package">Namma kuduremukha Package</option>
+          <option value="Namma Bidar Package">Namma bidar Package</option>
+          <option value="coastal Karunadu Package">coastal Karunadu Package</option>
+          <option value="Dakshina karunadu Package">Dakshina karunadu Package</option>
+          <option value="North karunadu Package">North karunadu Package</option>
+
+
+
+
+
+        </select>      </div> <br>
+    
+      <input class="btn btn-dark rounded" style="color:yellow"type="submit" value="Register now">    </div>
+  </form>
+{% endblock body %}
