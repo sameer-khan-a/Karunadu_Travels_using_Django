@@ -12,22 +12,22 @@
 
 ## Screenshots
 ### Homepage
-![Homepage](public/images/Home_Page.png)
+![Homepage](templates/Home_Page.png)
 
 ### Packages
-![Homepage](public/images/Packages.png)
+![Homepage](templates/Packages.png)
 
 ### Trending Packages
-![Homepage](public/images/Trending.png)
+![Homepage](templates/Trending.png)
 
 ### About Us
-![Homepage](public/images/About_Us.png)
+![Homepage](templates/About_Us.png)
 
 ### Register
-![Homepage](public/images/Register.png)
+![Homepage](templates/Register.png)
 
 ### Admin Dashboard
-![Admin Dashboard](public/images/admin.png)
+![Admin Dashboard](templates/admin.png)
 
 ## Technologies used
 
