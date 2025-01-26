@@ -25,9 +25,6 @@ age Profile](public/images/package-profile.png)
 ### Admin Dashboard
 ![Admin Dashboard](public/images/admin-dashboard.png)
 
-## How to Run
-To set up and run the application locally, follow these steps:
-
 ## Technologies used
 
 - Django
@@ -35,6 +32,9 @@ To set up and run the application locally, follow these steps:
 - SQLite (or PostgreSQL if needed)
 - HTML/CSS (for front-end design)
 - JavaScript (optional for extra interactivity)
+
+## How to Run
+To set up and run the application locally, follow these steps:
 
 ```bash
 1. Clone the repository:
