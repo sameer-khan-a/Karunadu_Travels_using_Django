@@ -12,18 +12,22 @@
 
 ## Screenshots
 ### Homepage
-![Homepage](public/images/homepage.png)
+![Homepage](public/images/Home_Page.png)
 
-### Travel Package Profile
-![Travel Package Profile](public/images/package-profile.png)
+### Packages
+![Homepage](public/images/Packages.png)
+
+### Trending Packages
+![Homepage](public/images/Trending.png)
+
+### About Us
+![Homepage](public/images/About_Us.png)
+
+### Register
+![Homepage](public/images/Register.png)
 
 ### Admin Dashboard
-![Admin Dashboard](public/images/admin-dashboard.png)
-
-age Profile](public/images/package-profile.png)
-
-### Admin Dashboard
-![Admin Dashboard](public/images/admin-dashboard.png)
+![Admin Dashboard](public/images/admin.png)
 
 ## Technologies used
 
@@ -38,7 +42,7 @@ To set up and run the application locally, follow these steps:
 
 ```bash
 1. Clone the repository:
-   git clone https://github.com/username/karunadu.git
+   git clone https://github.com/sameer-khan-a/Karunadu_Travels_using_Django.git
 
 2. Navigate to the project directory:
    cd karunadu
