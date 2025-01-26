@@ -1,6 +1,6 @@
 # Karunadu Travel Agency Management System
 
-**Karunadu** is a sleek and user-friendly Django-based Travel Agency Management System, designed to provide a seamless experience for customers to browse, book, and manage travel packages, and for admins to manage bookings and customers. The system features a premium black and gold-themed interface, creating a sophisticated atmosphere for users.
+**Karunadu** is a sleek and user-friendly Django-based Travel Agency Management System, designed to provide a seamless experience for customers to browse, book, and manage travel packages, and for admins to manage bookings and customers. The system features a premium black and gold-themed interface, creating a pleasing atmosphere for users.
 
 ## Features
 - **Travel Package Management**: Admins can add, update, and delete travel packages.
