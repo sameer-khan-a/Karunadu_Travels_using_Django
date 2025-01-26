@@ -1,3 +1,61 @@
 # Karunadu Travel Agency Management System
 
-**Karunadu** is a Django-based Travel Agency Management System with a sleek black and gold-themed interface. It provides a simple and efficient way for customers to browse, book, and manage travel packages, and for admins to manage users and bookings. The system includes features like Travel Package Management where admins can add, update, and delete travel packages, Customer Booking where customers can view available packages and make bookings, and an Admin Panel where admins can manage customers, bookings, and travel packages easily through Django's built-in admin panel. It also includes Ratings and Reviews where customers can leave ratings and reviews for the packages they book, and a Sleek Interface designed with a premium black and gold theme for an immersive user experience. The project can be run locally by cloning the repository, navigating to the project directory, installing the required dependencies, setting up the database, creating a superuser for admin access, and starting the Django development server. The website is accessible by visiting `http://127.0.0.1:8000/`. Technologies used include Django, Python, SQLite (or PostgreSQL if needed), HTML/CSS for front-end design, and optional JavaScript for extra interactivity. Once ready for deployment, the website can be hosted on platforms like [Heroku](https://www.heroku.com/) or [Render](https://render.com/), and can be accessed live once deployed.
+**Karunadu** is a sleek and user-friendly Django-based Travel Agency Management System, designed to provide a seamless experience for customers to browse, book, and manage travel packages, and for admins to manage bookings and customers. The system features a premium black and gold-themed interface, creating a sophisticated atmosphere for users.
+
+## Features
+- **Travel Package Management**: Admins can add, update, and delete travel packages.
+- **Customer Booking**: Customers can view available travel packages and make bookings.
+- **Admin Panel**: Admins can manage customers, bookings, and packages easily using Django's built-in admin panel.
+- **Ratings and Reviews**: Customers can leave ratings and reviews for the packages they book.
+- **Search Functionality**: Customers and admins can search for travel packages by name or category.
+- **Sleek Interface**: Designed with a black and gold theme for a premium user experience.
+
+## Screenshots
+### Homepage
+![Homepage](public/images/homepage.png)
+
+### Travel Package Profile
+![Travel Package Profile](public/images/package-profile.png)
+
+### Admin Dashboard
+![Admin Dashboard](public/images/admin-dashboard.png)
+
+age Profile](public/images/package-profile.png)
+
+### Admin Dashboard
+![Admin Dashboard](public/images/admin-dashboard.png)
+
+## How to Run
+To set up and run the application locally, follow these steps:
+
+## Technologies used
+
+- Django
+- Python
+- SQLite (or PostgreSQL if needed)
+- HTML/CSS (for front-end design)
+- JavaScript (optional for extra interactivity)
+
+```bash
+1. Clone the repository:
+   git clone https://github.com/username/karunadu.git
+
+2. Navigate to the project directory:
+   cd karunadu
+
+3. Install the required dependencies:
+   pip install -r requirements.txt
+
+4. Set up the database:
+   python manage.py migrate
+
+5. Create a superuser for admin access:
+   python manage.py createsuperuser
+
+6. Start the Django development server:
+   python manage.py runserver
+
+7. Access the website by visiting:
+   http://127.0.0.1:8000/
+
+
