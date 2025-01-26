@@ -45,7 +45,7 @@ To set up and run the application locally, follow these steps:
    git clone https://github.com/sameer-khan-a/Karunadu_Travels_using_Django.git
 
 2. Navigate to the project directory:
-   cd karunadu
+   cd Karunadu_Travels_using_Django
 
 3. Install the required dependencies:
    pip install -r requirements.txt
