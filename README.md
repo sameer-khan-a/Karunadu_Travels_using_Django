@@ -7,7 +7,6 @@
 - **Customer Booking**: Customers can view available travel packages and make bookings.
 - **Admin Panel**: Admins can manage customers, bookings, and packages easily using Django's built-in admin panel.
 - **Ratings and Reviews**: Customers can leave ratings and reviews for the packages they book.
-- **Search Functionality**: Customers and admins can search for travel packages by name or category.
 - **Sleek Interface**: Designed with a black and gold theme for a premium user experience.
 
 ## Screenshots
