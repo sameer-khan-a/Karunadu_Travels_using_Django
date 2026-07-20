@@ -153,10 +153,9 @@ http://127.0.0.1:8000/
 - [x] Ratings and reviews
 - [x] Django Admin dashboard
 - [x] Responsive interface
+- [x] Search and filtering 
 - [ ] Online payment integration
 - [ ] Booking history
-- [ ] Email notifications
-- [ ] Search and filtering
 - [ ] Wishlist functionality
 - [ ] Interactive destination maps
 
